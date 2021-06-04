@@ -558,12 +558,12 @@ section {
 --------------------------------------------------------------*/
 .counts {
   background: #009970;
-  padding: 40px 0 20px 0;
+  padding: 10px 0 10px 0;
   color: #fff;
 }
 
 .counts .counters span {
-  font-size: 36px;
+  font-size: 30px;
   display: block;
   font-weight: 700;
 }
